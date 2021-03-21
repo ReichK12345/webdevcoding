@@ -1,0 +1,37 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/69/83/17/698317b9a7d9acba258010e73f0ad587.jpg);
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+a:link, a:visited{
+    display: block;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: orange;
+    width: 350px;
+    text-align: center;
+    padding: 8px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+a:hover, a:active{
+    background-color: black;
+}
+li{
+    float: left;
+}
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    font-family: arial;
+}
+.openparagraphs {
+    font-size: 20px;
+    font-family: helvetica;
+    text-align: center;
+}
